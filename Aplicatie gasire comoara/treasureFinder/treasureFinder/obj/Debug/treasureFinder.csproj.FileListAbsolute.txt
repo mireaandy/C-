@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Debug\treasureFinder.exe.config
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Debug\treasureFinder.exe
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Debug\treasureFinder.pdb
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.csprojAssemblyReference.cache
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.Form1.resources
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.Properties.Resources.resources
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.csproj.GenerateResource.cache
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.exe
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Debug\treasureFinder.pdb

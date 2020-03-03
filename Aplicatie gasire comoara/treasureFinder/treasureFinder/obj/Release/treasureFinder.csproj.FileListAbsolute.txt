@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Release\treasureFinder.exe.config
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Release\treasureFinder.exe
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Release\treasureFinder.pdb
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.csprojAssemblyReference.cache
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.Form1.resources
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.Properties.Resources.resources
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.csproj.GenerateResource.cache
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.exe
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.pdb
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Release\treasureFinder.exe.manifest
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\bin\Release\treasureFinder.application
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.TrustInfo.xml
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.exe.manifest
+\\Mac\Home\Documents\MTP\Examen\treasureFinder\treasureFinder\obj\Release\treasureFinder.application

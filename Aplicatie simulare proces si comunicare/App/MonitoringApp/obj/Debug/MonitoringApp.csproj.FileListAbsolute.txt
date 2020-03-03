@@ -1,0 +1,30 @@
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\bin\Debug\MonitoringApp.exe.config
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\bin\Debug\MonitoringApp.exe
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\bin\Debug\MonitoringApp.pdb
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.Properties.Resources.resources
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.exe
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.pdb
+\\Mac\Home\Documents\PS Iercan\Proiect\MonitoringApp\obj\Debug\MonitoringApp.Form1.resources
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\bin\Debug\MonitoringApp.exe.config
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\bin\Debug\MonitoringApp.exe
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\bin\Debug\MonitoringApp.pdb
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.csprojAssemblyReference.cache
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.Form1.resources
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.Properties.Resources.resources
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.csproj.GenerateResource.cache
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.csproj.CoreCompileInputs.cache
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.exe
+Y:\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.pdb
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\bin\Debug\MonitoringApp.exe.config
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\bin\Debug\MonitoringApp.exe
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\bin\Debug\MonitoringApp.pdb
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.Form1.resources
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.exe
+\\Mac\Home\Documents\GitHub\Csharp\Aplicatie simulare proces si comunicare\App\MonitoringApp\obj\Debug\MonitoringApp.pdb
